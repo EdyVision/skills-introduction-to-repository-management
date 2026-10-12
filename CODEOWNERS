@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @EdyVision
+/src/backend/database.py      @EdyVision
+/src/backend/routers/auth.py  @EdyVision
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @EdyVision
